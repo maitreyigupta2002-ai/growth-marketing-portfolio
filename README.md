@@ -1,6 +1,48 @@
 # growth-marketing-portfolio
 
-A portfolio project documenting growth marketing tools, setup steps, and learnings.
+A portfolio project documenting growth marketing tools, setup steps, and research on B2B SaaS YouTube content strategy.
+
+---
+
+## Research: YouTube Content Strategy for B2B SaaS
+
+**Last updated:** 29 June 2026
+
+This repository includes primary research on how B2B SaaS founders and marketers use YouTube, LinkedIn, and SEO together to drive pipeline and revenue.
+
+### What was collected
+
+| Folder | Contents |
+|--------|----------|
+| [`/research/sources.md`](research/sources.md) | 10 experts with profile links, research dates, and annotations |
+| [`/research/linkedin-posts/`](research/linkedin-posts/) | Latest LinkedIn posts organized by author (10 files) |
+| [`/research/youtube-transcripts/`](research/youtube-transcripts/) | Video transcripts organized by video (6 transcripts) |
+| [`/research/other/`](research/other/) | Supplementary articles, podcast notes, and reference materials |
+
+### Why these experts were chosen
+
+The 10 experts were selected because they represent distinct, proven approaches to B2B SaaS content marketing — with a focus on YouTube as a pipeline channel:
+
+1. **Samu Kovacs (KS Media)** — Runs 40+ B2B YouTube channels; the leading practitioner of YouTube-first demand gen for SaaS
+2. **Sam Dunning (Breaking B2B)** — Built $2M+ ARR using the "deadly trio" of SEO, YouTube, and LinkedIn founder brand
+3. **Dave Gerhardt (Exit Five)** — Former Drift CMO; authority on founder-led marketing, community, and how AI is reshaping B2B buying
+4. **Kipp Bodnar & Kieran Flanagan (HubSpot)** — Hosts of Marketing Against the Grain; inbound marketing and AI-era content strategy at scale
+5. **Adam Robinson (RB2B)** — Documented case study of LinkedIn-to-YouTube flywheel; scaled RB2B to $9M+ ARR with founder transparency
+6. **TK Kader (Unstoppable)** — GTM advisor with a structured framework (ICP → Manifesto → Broadway Show) for founder-led content
+7. **Rob Walling (TinySeed / MicroConf)** — Bootstrapped SaaS authority; 5 stages of awareness framework for B2B content strategy
+8. **Denis Shatalin** — Data-backed growth experiments with measurable client outcomes across 100+ B2B SaaS niches
+9. **Simon Høiberg (FeedHive)** — Combines AI-assisted workflows with founder-led LinkedIn + YouTube for micro-SaaS growth
+10. **Jonathan Rintala (Univid)** — Documents scaling with 1-person GTM team and 95% organic inbound via YouTube + webinars
+
+**Selection criteria:** Each expert actively publishes on LinkedIn and/or YouTube, shares measurable results (not just theory), and demonstrates a repeatable content system relevant to B2B SaaS companies building YouTube into their GTM motion.
+
+### Key themes from the research
+
+- **YouTube is a search + trust channel**, not a vanity metrics play — 1,500 targeted views can outperform 100k generic impressions
+- **The flywheel:** YouTube → transcript → LinkedIn post → SEO article → sales enablement playlist
+- **SEO + YouTube + LinkedIn** work as an integrated system (Sam Dunning's "deadly trio")
+- **Founder-led content** is the common thread — authenticity and transparency build trust faster than corporate marketing
+- **Timeline:** Expect 90 days for initial signals; compounding results at 4–12 months with consistent publishing
 
 ---
 
